@@ -27,7 +27,7 @@
   letter-spacing: 2px;
   padding-top: 50px;
   text-transform: uppercase;
-  width: 400px;
+  width: 600px;
   margin: auto;
 }
 
@@ -62,11 +62,12 @@
 }
 
 #construction {
-  background-color: yellow;
-  padding: 50px;
+  background-image: url(/images/underground1.jpg);
+  background-position: 100px 375px;
+  padding: 100px 50px;
   width: 600px;
-  margin: auto;
   text-align: center;
+  margin: auto;
   color: #FF4800;
 }
 
