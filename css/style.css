@@ -57,18 +57,30 @@
 }
 
 #content {
-  width: 800px;
-  margin-top: 50px;
+  width: 740px;
+  margin-top: 20px;
+  padding: 30px;
+}
+
+#content h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
 
 #construction {
   background-image: url(/images/underground1.jpg);
   background-position: 100px 375px;
-  padding: 100px 50px;
+  padding: 100px 30px;
   width: 600px;
   text-align: center;
   margin: auto;
   color: #FF4800;
+}
+
+#construction h1 {
+  background-color: yellow;
+  padding-top: 3px;
 }
 
 #footer {
@@ -76,7 +88,7 @@
   width: 800px;
   margin: auto;
   display: inline-block;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 #copyright {
