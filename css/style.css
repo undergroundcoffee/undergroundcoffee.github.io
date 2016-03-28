@@ -4,6 +4,10 @@
   font-weight: normal;
 }
 
+body {
+  background-color: #fefbf7;
+}
+
 #wrapper {
   padding-top: 50px;
   margin: auto;
@@ -52,7 +56,7 @@
 }
 
 #nav>ul>li:hover>a {
-	color: #FF4800;
+	color: #990000;
   text-decoration: underline;
 }
 
@@ -106,7 +110,7 @@
 }
 
 #social-media a:hover {
-  color: #FF4800;
+  color: #990000;
 }
 
 #copyright {
@@ -165,12 +169,12 @@ clasccc
 }
 
 #content a {
-  color: #FF4800;
+  color: #990000;
   text-decoration: none;
 }
 
 a:hover {
-  color: #FF4800;
+  color: #990000;
   text-decoration: underline;
 }
 
@@ -194,5 +198,5 @@ a:hover {
 }
 
 #contact-sm a:hover {
-    color: #FF4800;
+    color: #990000;
 }
